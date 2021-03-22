@@ -1,0 +1,1 @@
+This is just a demo code for one of my personal projects. The project was based on a shopping catalog. This code contains only the NodeJS part of the project where I used the Express framework of NodeJS.
